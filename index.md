@@ -2,7 +2,7 @@
 
 I received my B.A. in Psychology from UCLA in 2019 and am a current M.S. Big Data Analytics student at San Diego State University. For more information on my work experience, please check out my [LinkedIn](https://www.linkedin.com/in/nia-fan/). 
 
-## Visualizations
+## Visualizations (Created with Python)
 
 ### Data Source: U.S. Bureau of Labor and Statistics
 
