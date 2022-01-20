@@ -4,9 +4,9 @@ I received my B.A. in Psychology from UCLA in 2019 and am a current M.S. Big Dat
 
 ## Visualizations (Created with Python)
 
-### Data Source: U.S. Bureau of Labor and Statistics
+### <BODY TEXT="BLACK"> Data Source: U.S. Bureau of Labor and Statistics
 
-<BODY TEXT="BLACK"> [Time Series Visualization of Job Openings, Hirings, Layoffs by State from September 2020-September 2021](https://nia-fan.github.io/projects/seriesChart.jpg)
+[Time Series Visualization of Job Openings, Hirings, Layoffs by State from September 2020-September 2021](https://nia-fan.github.io/projects/seriesChart.jpg)
 <br>
 [Total U.S. Monthly Job Hires and Quits from September 2020-September 2021](https://nia-fan.github.io/projects/MonthlyJobHiresandQuits.png)
 <br>
